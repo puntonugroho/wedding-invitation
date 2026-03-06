@@ -10,7 +10,7 @@ $data = $yourname . "|" . $comment . "|\n";
 //Remember to use "a" not "w" to indicate write. Using 'w' will overwrite 
 // any existing item in the file whenever a new item is written to it.
 
-$myfile = fopen("comment.txt", "a"); 
+$myfile = fopen("comments.txt", "a"); 
 
 //write the formatted data into the opened file and close it
 fwrite($myfile, $data); 
