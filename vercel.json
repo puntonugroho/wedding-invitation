@@ -2,8 +2,7 @@
   "version": 2,
   "framework": null,
   "function": {
-    "api/index.php": { "runtime": "vercel-php@0.3.1" },
-    "api/comment.php": { "runtime": "vercel-php@0.3.1" }
+    "api/**/*.php": { "runtime": "vercel-php@0.3.1" }
   },
   "routes": [
     {
