@@ -601,7 +601,7 @@
         <?php
           // 1. Configuration
           $items_per_page = 5; // Number of items to show per page
-          $opFile = "comment.txt"; // Your data file
+          $opFile = "comments.txt"; // Your data file
 
           // Determine current page number from the URL, default to 1
           $current_page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
