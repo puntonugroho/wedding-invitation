@@ -1,5 +1,7 @@
 # Wedding Invitation
 
+Ini adalah personal wedding invitation milik saya dengan berbagai modifikasi yang tertera di credits.
+
 # Live Demo
 
 [Live Demo](https://lilisandpuntowedding.vercel.app/).
