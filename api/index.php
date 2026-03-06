@@ -604,30 +604,49 @@
           // $opFile = "comments.txt"; // Your data file
           $opFile = __DIR__ . "/comments.txt"; // Your data file
 
+          $binId = '69aa47e243b1c97be9b864a9';
+          $apiKey = '$2a$10$i3qc0nVIX3GX4dQKmOUI5.0usSJOG2NFysIPZ02sQ.SzSZWuabT52';
+
+          $ch = curl_init("https://api.jsonbin.io/v3/b/$binId/latest");
+          curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+          curl_setopt($ch, CURLOPT_HTTPHEADER, ["X-Master-Key: $apiKey"]);
+          curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+
+          $response = curl_exec($ch);
+          $result = json_decode($response, true);
+
+          // Perhatikan: kita mengambil ['record']['comments']
+          $comments = $result['record']['comments']; 
+          curl_close($ch);
+          
           // Determine current page number from the URL, default to 1
           $current_page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
           if ($current_page < 1) $current_page = 1;
 
           // 2. Read and process the file
           $lines = file($opFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES); // Read file into an array
-          $total_items = count($lines);
+          // $total_items = count($lines);
+          
+          $posts = $comments;
+          $total_items = count($posts);
+
           
           // Optional: Process lines into a structured array if needed (e.g., using explode)
-          $posts = array_map(function($line) {
-            return explode("|", $line);
-            }, $lines);
-
-          $posts = array_reverse($posts);
+          // $posts = array_map(function($line) {
+            //   return explode("|", $line);
+            //   }, $lines);
             
-          // 3. Calculate total pages
-          $total_pages = ceil($total_items / $items_per_page);
-
-          // Ensure the current page is not greater than the total pages
-          if ($current_page > $total_pages) $current_page = $total_pages;
-
-          // 4. Extract data for the current page
-          $offset = ($current_page - 1) * $items_per_page;
-          $posts_on_page = array_slice($posts, $offset, $items_per_page);
+            $posts = array_reverse($posts);
+            
+            // 3. Calculate total pages
+            $total_pages = ceil($total_items / $items_per_page);
+            
+            // Ensure the current page is not greater than the total pages
+            if ($current_page > $total_pages) $current_page = $total_pages;
+            
+            // 4. Extract data for the current page
+            $offset = ($current_page - 1) * $items_per_page;
+            $posts_on_page = array_slice($posts, $offset, $items_per_page);
           
           // 5. Display the data
           foreach ($posts_on_page as $post) {
@@ -638,10 +657,10 @@
             echo "<figure>";
             // Assuming $post[0] is date, $post[1] is title, $post[2] is message
             echo "<blockquote class='blockquote'>";
-            echo "<p>" . htmlspecialchars($post[1]) . "</p>";
+            echo "<p>" . htmlspecialchars($post["ucapan"]) . "</p>";
             echo "</blockquote>";
             echo "<figcaption class='blockquote-footer'>";
-            echo htmlspecialchars($post[0]);
+            echo htmlspecialchars($post["dari"]);
             echo "</figcaption>";
             echo "</figure>";
             echo "</div>";
