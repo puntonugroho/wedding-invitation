@@ -10,7 +10,7 @@
       integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
     <!-- Corinthia -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -26,12 +26,12 @@
       rel="stylesheet"
     />
     <!-- Simply Countdown -->
-    <link rel="stylesheet" href="./assets/css/cd/default.css" />
-    <link rel="stylesheet" href="./assets/css/cd/default.min.css" />
-    <script src="./assets/js/simplyCountdown.js"></script>
-    <script src="./assets/js/simplyCountdown.umd.js"></script>
-    <script src="./assets/js/simplyCountdown.js.map"></script>
-    <script src="./assets/js/simplyCountdown.umd.js.map"></script>
+    <link rel="stylesheet" href="../assets/css/cd/default.css" />
+    <link rel="stylesheet" href="../assets/css/cd/default.min.css" />
+    <script src="../assets/js/simplyCountdown.js"></script>
+    <script src="../assets/js/simplyCountdown.umd.js"></script>
+    <script src="../assets/js/simplyCountdown.js.map"></script>
+    <script src="../assets/js/simplyCountdown.umd.js.map"></script>
     <!-- Bootstrap Icons -->
     <link
       rel="stylesheet"
@@ -141,7 +141,7 @@
               </div>
               <div class="col-4">
                 <img
-                  src="./assets/img/place.jpg"
+                  src="../assets/img/place.jpg"
                   alt="Punto"
                   class="img-responsive rounded-circle"
                 />
@@ -153,7 +153,7 @@
             <div class="row">
               <div class="col-4">
                 <img
-                  src="./assets/img/lilis_crop.jpg"
+                  src="../assets/img/lilis_crop.jpg"
                   alt="Lilis"
                   class="img-responsive rounded-circle"
                 />
@@ -317,7 +317,7 @@
                 <div
                   class="story-image"
                   style="
-                    background-image: url(&quot;./assets/img/msskm.webp&quot;);
+                    background-image: url(&quot;../assets/img/msskm.webp&quot;);
                   "
                 ></div>
                 <div class="story-panel">
@@ -422,7 +422,7 @@
               data-gallery="example-gallery"
             >
               <img
-                src="./assets/img/gallery/thumbnail/1.jpg"
+                src="../assets/img/gallery/thumbnail/1.jpg"
                 alt="Punto dan Lilis 1"
                 class="img-fluid w-100 rounded"
               />
@@ -768,7 +768,7 @@
 
     <div id="audio-container">
       <audio id="bgm" autoplay loop>
-        <source src="./assets/audio/kita_usahakan.mp3" type="audio/mp3" />
+        <source src="../assets/audio/kita_usahakan.mp3" type="audio/mp3" />
       </audio>
 
       <div class="audio-icon-wrapper" style="display: none">
@@ -959,7 +959,7 @@
                   <div class="card-header">Bank Syariah Indonesia (BSI)</div>
                   <div class="card-body">
                     <img
-                      src="./assets/img/bsi.png"
+                      src="../assets/img/bsi.png"
                       class="img-fluid mb-3 rek justify-content-center"
                       alt="Bank BSI"
                     />
@@ -983,7 +983,7 @@
                   <div class="card-header">Bank Syariah Indonesia (BSI)</div>
                   <div class="card-body">
                     <img
-                      src="./assets/img/bsi.png"
+                      src="../assets/img/bsi.png"
                       class="img-fluid mb-3 rek justify-content-center"
                       alt="Bank BSI"
                     />
@@ -1007,7 +1007,7 @@
                   <div class="card-header">Bank Central Asia (BCA)</div>
                   <div class="card-body">
                     <img
-                      src="./assets/img/BCA-Logo-White-Gift-Wedding-Virtual-Invistory-Undangan-Digital-1024x321.png"
+                      src="../assets/img/BCA-Logo-White-Gift-Wedding-Virtual-Invistory-Undangan-Digital-1024x321.png"
                       class="img-fluid mb-3 rek justify-content-center"
                       alt="Bank BCA"
                     />
