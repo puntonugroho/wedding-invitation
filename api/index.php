@@ -431,6 +431,188 @@
         <div class="row row-cols-lg-4 row-cols-md-3 row-cols-sm-2 row-cols-1 justify-content-center">
           <div class="col mt-3">
             <a
+              href="https://drive.google.com/file/d/1mMpHDcWi6KxROrxSVBSMJ114HTG_CZRp/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1D4ajM_dQ2r9Wac2CqkC96xjZfyjBOkAR/view?usp=drive_link"
+                alt="Punto dan Lilis 1"
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1XMQ8vXqOXMMzBr1EeC663uDQ8Fw7Mytp/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1jpJkcl-WKp0TVC2FW-XzJIiSntVek3iO/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1QmvdB31577zPN922vitTCVlTrySATsjI/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1V0FjselchUucgN6Ovubs5jZflZ5BD_8s/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1O9_-9GDbNPMCENVPR1EHZeoE2O7A3E8p/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1NBDJPc6KEut9s-eXbyTkFu4jlQ6pcJfO/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1lcwZzvOcGQRtSfxiVNpTZ1z2ZhAq3sFj/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1Jyk_U-D3QIMHfPbKxM81CPVjXItw3Azs/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1u_-NUiehiaLpYCDmIm5-bltobFqjhsTw/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1fHBet0c8fdJAvfzhqMr0CvS8SIe9IQrH/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1yhlwT7AbBNa20NTpuamMjil-Xx6OA7j3/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1lzWrcYTBeGsuN3l-Gj222os-PI9yejIR/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1j-v_P3_VytY7RO93HBxaitg5dviAZf2E/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1i1VM2qoUHRPED5KqQYC0nEatpkFDkSl6/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1X9EI5-m-WdW21ttyZ1Xl1UnHU0k8RQ_j/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1roVtW_jvBp19EqEGCxJ42x7z_zOGDMv8/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1pRyq0qktv2FB7Ml06ylkjOYc5py5dsNG/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/17NuuasOA3MrF6wgcxUBkqDmMwglfzons/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1-9HS3lCdUYlFGHeqYZbA_9PyDddHyBld/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/141A2fLNxLRKTynqHBIIxCZlETWX9V0vW/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1SBJrvb8rnbWxsBDyjYOS9LpNYmgie8cm/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1wa9TubnSdwdQ2fEtnw5XndyoBzPVD8kR/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1UCJ7T3RybGxpE4Zc1JNw1zjKWqu46saf/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1GvnFiYq-yicuqDJcE1NThxm0QYBSl1GW/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="https://drive.google.com/file/d/1RWgWjEXGfmZK3ubw10VNL7i9_JRl_tVu/view?usp=drive_link"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="https://drive.google.com/file/d/1K8R194TwFXD_28gGOlwP20lu5ZiBVa_5/view?usp=drive_link"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <!-- <div class="col mt-3">
+            <a
               href="../assets/img/gallery/1.JPG"
               data-toggle="lightbox"
               data-gallery="example-gallery"
@@ -610,7 +792,7 @@
                 class="img-fluid w-100 rounded"
               />
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
