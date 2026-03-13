@@ -114,6 +114,17 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-8 text-center">
+            <figure>
+              <blockquote class="blockquote">
+                <span>"Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, 
+                  agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih 
+                  dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda 
+                  (kebesaran Allah) bagi kaum yang berpikir"</span>
+              </blockquote>
+              <figcaption class="blockquote-footer">
+                QS Ar-Rum (30:21)
+              </figcaption>
+            </figure>
             <h2>Acara Pernikahan</h2>
             <h3>Diselenggarakan pada 17 April 2026 di Nagan Raya, Aceh</h3>
             <p>
@@ -128,20 +139,20 @@
           <div class="col-lg-6">
             <div class="row">
               <div class="col-8">
-                <h3>Punto Nugroho</h3>
-                <p>
+                <h3>Punto Nugroho, S.Komp.</h3>
+                <!-- <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Possimus, tenetur.
-                </p>
+                </p> -->
                 <p>
                   Putra dari Bapak Kuwatna <br />
                   dan <br />
-                  (Almh) Ibu Tukinem
+                  (Almh.) Ibu Tukinem
                 </p>
               </div>
               <div class="col-4">
                 <img
-                  src="../assets/img/place.jpg"
+                  src="../assets/img/punto.jpg"
                   alt="Punto"
                   class="img-responsive rounded-circle"
                 />
@@ -153,17 +164,17 @@
             <div class="row">
               <div class="col-4">
                 <img
-                  src="../assets/img/lilis_crop.jpg"
+                  src="../assets/img/lilis.jpg"
                   alt="Lilis"
                   class="img-responsive rounded-circle"
                 />
               </div>
               <div class="col-8 text-end">
-                <h3>Lilis Rahmawati</h3>
-                <p>
+                <h3>Lilis Rahmawati, S.H.</h3>
+                <!-- <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Possimus, tenetur.
-                </p>
+                </p> -->
                 <p>
                   Putri dari Bapak Supian <br />
                   dan <br />
@@ -304,10 +315,11 @@
           <div class="col-md-8 col-10 text-center">
             <span>Bagaimana Cinta Kami Bersemi</span>
             <h2>Cerita Kami</h2>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam,
-              tempora?
-            </p>
+            <blockquote class="blockquote">
+              <p>
+                "Setiap Pertemuan Tak Pernah Datang Tanpa Makna"
+              </p>
+            </blockquote>
           </div>
         </div>
         <div class="row">
@@ -323,12 +335,12 @@
                 <div class="story-panel">
                   <div class="story-heading">
                     <h3>Pertama Bertemu</h3>
-                    <span>[Tanggal]</span>
+                    <span>Januari 2021</span>
                   </div>
                   <div class="story-body">
                     <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                      Praesentium, quae?
+                      Pertemuan kami terjadi saat Lilis menjadi Paralegal di Posbakum dan Punto
+                      menjadi CPNS di Mahkamah Syar'iyah Suka Makmue
                     </p>
                   </div>
                 </div>
@@ -337,18 +349,18 @@
                 <div
                   class="story-image"
                   style="
-                    background-image: url(&quot;https://picsum.photos/300&quot;);
+                    background-image: url(&quot;../assets/img/conversation.png&quot;);
                   "
                 ></div>
                 <div class="story-panel">
                   <div class="story-heading">
                     <h3>Mulai Serius</h3>
-                    <span>[Tanggal]</span>
+                    <span>25 May 2022</span>
                   </div>
                   <div class="story-body">
                     <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                      Praesentium, quae?
+                      Kami berdua semakin serius menjajaki hubungan, banyak rintangan silih berganti
+                      tetapi kami tetap meyakinkan satu sama lain.
                     </p>
                   </div>
                 </div>
@@ -357,18 +369,18 @@
                 <div
                   class="story-image"
                   style="
-                    background-image: url(&quot;https://picsum.photos/201&quot;);
+                    background-image: url(&quot;../assets/img/engagement.jpg&quot;);
                   "
                 ></div>
                 <div class="story-panel">
                   <div class="story-heading">
                     <h3>Tunangan</h3>
-                    <span>[Tanggal]</span>
+                    <span>14 Desember 2025</span>
                   </div>
                   <div class="story-body">
                     <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                      Praesentium, quae?
+                      Akhirnya, kami menjajaki ke langkah yang lebih serius lagi, yaitu bertunangan
+                      yang dihadiri oleh sanak saudara dan keluarga terdekat dan yang mewakili.
                     </p>
                   </div>
                 </div>
@@ -377,18 +389,18 @@
                 <div
                   class="story-image"
                   style="
-                    background-image: url(&quot;https://picsum.photos/302&quot;);
+                    background-image: url(&quot;../assets/img/akad (Small).JPG&quot;);
                   "
                 ></div>
                 <div class="story-panel">
                   <div class="story-heading">
                     <h3>Akad Nikah</h3>
-                    <span>[Tanggal]</span>
+                    <span>17 April 2026</span>
                   </div>
                   <div class="story-body">
                     <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                      Praesentium, quae?
+                      Setelah berbagai macam cerita yang mengiringi langkah kami. Akhirnya kami
+                      akan melangkah dan merangkai cerita baru sebagai pasangan suami dan istri.
                     </p>
                   </div>
                 </div>
@@ -408,21 +420,23 @@
           <div class="col-md-8 col-10 text-center">
             <span>Memori Kisah Kami</span>
             <h2>Galeri Foto</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit,
-              doloribus.
-            </p>
+            <blockquote class="blockquote">
+              <p>
+                "Setiap foto menyimpan cerita, dan setiap cerita membawa kami lebih dekat ke hari bahagia ini. 
+                Inilah potongan perjalanan kami yang ingin kami bagikan kepada Anda.""
+              </p>
+            </blockquote>
           </div>
         </div>
-        <div class="row row-cols-lg-4 row-cols-md-3 row-cols-sm-2 row-cols-1">
+        <div class="row row-cols-lg-4 row-cols-md-3 row-cols-sm-2 row-cols-1 justify-content-center">
           <div class="col mt-3">
             <a
-              href="./assets/img/gallery/1.jpg"
+              href="../assets/img/gallery/1.JPG"
               data-toggle="lightbox"
               data-gallery="example-gallery"
             >
               <img
-                src="../assets/img/gallery/thumbnail/1.jpg"
+                src="../assets/img/gallery/thumbnail/1.JPG"
                 alt="Punto dan Lilis 1"
                 class="img-fluid w-100 rounded"
               />
@@ -430,12 +444,12 @@
           </div>
           <div class="col mt-3">
             <a
-              href="https://picsum.photos/id/300/1280/768"
+              href="../assets/img/gallery/2.JPG"
               data-toggle="lightbox"
               data-gallery="example-gallery"
             >
               <img
-                src="https://picsum.photos/id/300/400/500"
+                src="../assets/img/gallery/thumbnail/2.JPG"
                 alt=""
                 class="img-fluid w-100 rounded"
               />
@@ -443,12 +457,12 @@
           </div>
           <div class="col mt-3">
             <a
-              href="https://picsum.photos/id/301/1280/768"
+              href="../assets/img/gallery/3.JPG"
               data-toggle="lightbox"
               data-gallery="example-gallery"
             >
               <img
-                src="https://picsum.photos/id/301/400/500"
+                src="../assets/img/gallery/thumbnail/3.JPG"
                 alt=""
                 class="img-fluid w-100 rounded"
               />
@@ -456,12 +470,12 @@
           </div>
           <div class="col mt-3">
             <a
-              href="https://picsum.photos/id/302/1280/768"
+              href="../assets/img/gallery/4.JPG"
               data-toggle="lightbox"
               data-gallery="example-gallery"
             >
               <img
-                src="https://picsum.photos/id/302/400/500"
+                src="../assets/img/gallery/thumbnail/4.JPG"
                 alt=""
                 class="img-fluid w-100 rounded"
               />
@@ -469,12 +483,12 @@
           </div>
           <div class="col mt-3">
             <a
-              href="https://picsum.photos/id/303/1280/768"
+              href="../assets/img/gallery/5.JPG"
               data-toggle="lightbox"
               data-gallery="example-gallery"
             >
               <img
-                src="https://picsum.photos/id/303/400/500"
+                src="../assets/img/gallery/thumbnail/6.JPG"
                 alt=""
                 class="img-fluid w-100 rounded"
               />
@@ -482,12 +496,12 @@
           </div>
           <div class="col mt-3">
             <a
-              href="https://picsum.photos/id/304/1280/768"
+              href="../assets/img/gallery/6.JPG"
               data-toggle="lightbox"
               data-gallery="example-gallery"
             >
               <img
-                src="https://picsum.photos/id/304/400/500"
+                src="../assets/img/gallery/thumbnail/6.JPG"
                 alt=""
                 class="img-fluid w-100 rounded"
               />
@@ -495,12 +509,103 @@
           </div>
           <div class="col mt-3">
             <a
-              href="https://picsum.photos/id/305/1280/768"
+              href="../assets/img/gallery/7.JPG"
               data-toggle="lightbox"
               data-gallery="example-gallery"
             >
               <img
-                src="https://picsum.photos/id/305/400/500"
+                src="../assets/img/gallery/thumbnail/7.JPG"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="../assets/img/gallery/8.JPG"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="../assets/img/gallery/thumbnail/8.JPG"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="../assets/img/gallery/9.JPG"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="../assets/img/gallery/thumbnail/9.JPG"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="../assets/img/gallery/10.JPG"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="../assets/img/gallery/thumbnail/10.JPG"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="../assets/img/gallery/11.JPG"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="../assets/img/gallery/thumbnail/11.JPG"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="../assets/img/gallery/12.JPG"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="../assets/img/gallery/thumbnail/12.JPG"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="../assets/img/gallery/13.JPG"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="../assets/img/gallery/thumbnail/13.JPG"
+                alt=""
+                class="img-fluid w-100 rounded"
+              />
+            </a>
+          </div>
+          <div class="col mt-3">
+            <a
+              href="../assets/img/gallery/14.JPG"
+              data-toggle="lightbox"
+              data-gallery="example-gallery"
+            >
+              <img
+                src="../assets/img/gallery/thumbnail/14.JPG"
                 alt=""
                 class="img-fluid w-100 rounded"
               />
@@ -706,10 +811,12 @@
           <div class="col-md-8 col-10 text-center">
             <span>Ungkapan Tanda Kasih</span>
             <h2>Kirim Hadiah</h2>
-            <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem,
-              cupiditate.
-            </p>
+            <blockquote class="blockquote">
+              <p>
+                "Kehadiran Anda adalah hal yang paling kami harapkan. Namun jika Anda bermaksud memberikan kado sebagai bentuk kasih sayang, 
+                Anda dapat mengirimkannya melalui nomor rekening di bawah ini.""
+              </p>
+            </blockquote>
             <br />
             <button
               class="btn btn-primary"
@@ -909,7 +1016,7 @@
       } else {
         wrap.style.display = "flex";
         sound = new Howl({
-            src: ['./assets/audio/kita_usahakan.mp3'],
+            src: ['../assets/audio/kita_usahakan.mp3'],
             autoplay: true,
             loop: true,
             volume: 0.7
@@ -1090,11 +1197,13 @@
     const nama2 = urlParams.get("n2") || "";
     const p1 = urlParams.get("p1") || "";
     const p2 = urlParams.get("p2") || "Bapak/Ibu/Saudara/i";
+    console.log(nama1);
+    
 
     const namaContainer = document.querySelector(".hero h4 span");
     if (nama1 == "") {
       namaContainer.innerText = `${p2} ${nama1},`.replace(/\s/g, "");
-    } else if(nama1 != "" && p2 == "") {
+    } else if(nama1 != "" && nama2 == "") {
       namaContainer.innerText = `${p2} ${nama1},`;
       document.querySelector("#namaInput").value = nama1;
       document.querySelector("#namaInput2").value = nama1;
@@ -1104,8 +1213,8 @@
         document.querySelector("#namaInput").value = nama1;
         document.querySelector("#namaInput2").value = nama1;
       } else {
-        if(p2 == ""){
-          namaContainer.innerText = `${p2} ${nama1} dan ${nama2},`;
+        if(p1 != "" && p2 == "Bapak/Ibu/Saudara/i"){
+          namaContainer.innerText = `${p1} ${nama1} dan ${nama2},`;
           document.querySelector("#namaInput").value = nama1;
           document.querySelector("#namaInput2").value = nama1;
         } else {
