@@ -369,7 +369,7 @@
                 <div
                   class="story-image"
                   style="
-                    background-image: url(&quot;../assets/img/engagement.jpg&quot;);
+                    background-image: url(&quot;../assets/img/engagement (Small).jpg&quot;);
                   "
                 ></div>
                 <div class="story-panel">
