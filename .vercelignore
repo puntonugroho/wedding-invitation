@@ -1,0 +1,5 @@
+.git
+.github
+node_modules
+
+# Add any other large assets not needed for the PHP files to run
