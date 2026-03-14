@@ -1080,7 +1080,10 @@
         <source src="../assets/audio/kita_usahakan.mp3" type="audio/mp3" />
       </audio>
 
-      <div class="audio-icon-wrapper" style="display: none">
+      <div class="audio-icon-wrapper" style="display: none" data-bs-toggle="popover"
+                  data-bs-content="🎶 Sal Priadi - Kita Usahakan Rumah Itu"
+                  data-bs-placement="left"
+                  tabindex="0">
         <i class="bi bi-disc"></i>
       </div>
     </div>
