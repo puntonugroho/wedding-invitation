@@ -1011,7 +1011,7 @@
             volume: 0.7
         });
         isPlaying = true;
-        sound.play();
+        // sound.play();
       }
       // disableScroll();
     </script>
@@ -1232,7 +1232,7 @@
         // $('button[type="submit"]', this).prop('disabled', true); 
         var formData = $('#wishes').serialize();
         $.ajax({
-          url: 'comment.php',
+          url: '/api/comment.php',
           type: 'POST',
           data: formData,
           dataType: 'json',
