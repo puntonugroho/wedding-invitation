@@ -695,8 +695,8 @@
           // $opFile = "comments.txt"; // Your data file
           $opFile = __DIR__ . "/comments.txt"; // Your data file
 
-          $binId = 'YOUR BIN ID';
-          $apiKey = 'YOUR API KEY';
+          $binId = '69aa47e243b1c97be9b864a9';
+          $apiKey = '$2a$10$i3qc0nVIX3GX4dQKmOUI5.0usSJOG2NFysIPZ02sQ.SzSZWuabT52';
 
           $ch = curl_init("https://api.jsonbin.io/v3/b/$binId/latest");
           curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
