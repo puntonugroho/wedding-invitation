@@ -24,3 +24,5 @@ Ini adalah personal wedding invitation milik saya dengan berbagai modifikasi yan
 - Time and Place
 - RSVP with Wishlist
 - Gift Section
+- Alert using SweetAlert2
+- Howler for Music
