@@ -429,7 +429,7 @@
           </div>
         </div>
         <div class="row row-cols-lg-4 row-cols-md-3 row-cols-sm-2 row-cols-1 justify-content-center">
-          <div class="col mt-3">
+          <!-- <div class="col mt-3">
             <a
               href="https://drive.google.com/file/d/1mMpHDcWi6KxROrxSVBSMJ114HTG_CZRp/view?usp=drive_link"
               data-toggle="lightbox"
@@ -610,8 +610,8 @@
                 class="img-fluid w-100 rounded"
               />
             </a>
-          </div>
-          <!-- <div class="col mt-3">
+          </div> -->
+          <div class="col mt-3">
             <a
               href="../assets/img/gallery/1.JPG"
               data-toggle="lightbox"
@@ -792,7 +792,7 @@
                 class="img-fluid w-100 rounded"
               />
             </a>
-          </div> -->
+          </div>
         </div>
       </div>
     </section>
